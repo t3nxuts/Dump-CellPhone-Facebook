@@ -14,7 +14,7 @@ opcion: privacidad,
 opcion: ¿Quién puede buscarme?,
 opcion:¿Quién puede buscarte con el número de teléfono que proporcionaste?
 configurarlo en privado, ya q por defecto es PUBLICA!!
-
+=============================================
 testeado en Python 2.7
 sudo apt-get install re python-request
 =============================================
