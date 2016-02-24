@@ -1,5 +1,5 @@
 
-![ScreenShot](https://raw.githubusercontent.com/t3nxuts/Dump-CellPhone-Facebook/master/dumpcellphonefb.png)
+![ScreenShot](https://raw.githubusercontent.com/t3nxuts/Dump-CellPhone-Facebook/master/capture.png)
 ###DumpCellPhoneFB by t3nxuts! v1.5
 +https://fb.com/Dark.Cristopher
 
